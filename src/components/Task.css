@@ -12,3 +12,16 @@
 .task-title{
     cursor: pointer;
 }
+
+.buttons-container{
+    display: flex;
+}
+.remove-task-button, .see-task-details-button{
+    background-color: #444;
+    border:none;
+    font-size:24px;
+    color: chartreuse;
+    padding: 0;
+    margin: 0 5px;
+}
+
